@@ -74,4 +74,20 @@ MonoBehaviour:
     - false
     required: 1
     modifyIfFound: 1
+  - nodePath: /manifest
+    tag: uses-permission
+    attrName: name
+    attrValue: com.yvr.permission.HAND_TRACKING
+    attrs: []
+    required: 1
+    modifyIfFound: 1
+  - nodePath: /manifest
+    tag: uses-feature
+    attrName: name
+    attrValue: yvr.software.handtracking
+    attrs:
+    - required
+    - true
+    required: 1
+    modifyIfFound: 1
   assetInfoList: []
