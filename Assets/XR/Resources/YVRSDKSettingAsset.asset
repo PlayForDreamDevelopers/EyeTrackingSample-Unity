@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: YVRSDKSettingAsset
   m_EditorClassIdentifier: 
   ignoreSDKSetting: 0
-  appIDChecked: 0
+  appIDChecked: 1
   manifestTagInfosList:
   - nodePath: /manifest
     tag: uses-feature

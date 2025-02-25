@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 using YVR.Core;
+using YVR.Interaction.Runtime;
+using YVR.Interaction.Runtime.InputDeviceModeFactory;
 
-namespace YVR.Interaction.Runtime.InputDeviceModeFactory
+namespace YVR.Samples.EyeTracking.UIInteraction
 {
     public class EyeGazeDeviceFactory : BaseInputDeviceFactory
     {
