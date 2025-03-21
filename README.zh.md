@@ -31,9 +31,7 @@
 
 以眼看向不同方位，移动小方块的位置
 
-![2025 03 20_104524206](https://github.com/user-attachments/assets/d4479a46-77e5-4539-a544-1fb005f0c739)
-![2025 03 20_104147151](https://github.com/user-attachments/assets/4ddeecde-7dca-4bf3-85f6-72dc5f7d504a)
-![2025 03 20_104528659](https://github.com/user-attachments/assets/61815460-2122-450d-a1e9-67745f7ae5b0)
+![EyeTrackingSample](https://github.com/user-attachments/assets/3639db05-eadf-427c-96b8-4064fd0fe472)
 
 
 ## 要求
