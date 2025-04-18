@@ -17,9 +17,11 @@
     <br />
     <a href="https://github.com/PlayForDreamDevelopers/EyeTrackingSample-Unity#示例">查看示例</a>
     &middot;
-    <a href="https://github.com/PlayForDreamDevelopers/EyeTrackingSample-Unity/issues/new?labels=bug">Bug 报告</a>
+    <a href="https://github.com/PlayForDreamDevelopers/EyeTrackingSample-Unity/issues/new?template=bug_report.yml">Bug 报告</a>
     &middot;
-    <a href="https://github.com/PlayForDreamDevelopers/EyeTrackingSample-Unity/issues/new?labels=enhancement">需求要求</a>
+    <a href="https://github.com/PlayForDreamDevelopers/EyeTrackingSample-Unity/issues/new?template=feature_request.yml">需求要求</a>
+    &middot;
+    <a href="https://github.com/PlayForDreamDevelopers/EyeTrackingSample-Unity/issues/new?template=documentation_update.yml">改进文档</a>
   </p>
 </div>
 
